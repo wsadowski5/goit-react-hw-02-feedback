@@ -1,4 +1,4 @@
-import { StyledDiv} from './FeedbackOptions-styling'
+import { StyledDiv } from './FeedbackOptions-styling'
 import propTypes from "prop-types";
 
 

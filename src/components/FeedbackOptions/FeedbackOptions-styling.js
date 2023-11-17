@@ -14,9 +14,9 @@ export const slideIn = keyframes`
 
 
 export const StyledDiv = styled.div`
-width: 400px;
 display: flex;
-justify-content:space-around;
+justify-content:center;
+gap: 20px;
     > button {
         width:120px;
         height:46px;
