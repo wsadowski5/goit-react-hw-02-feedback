@@ -42,7 +42,7 @@ export class App extends Component {
   render() {
     return (
       <div>
-        <Section title="Please leave Feedback">
+        <Section title="Please leave your Feedback">
           <FeedbackOptions
             options={['Good', 'Neutral', 'Bad']}
             onLeaveFeedback={this.handleFeedbackRate}
